@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewTest", "DataGridViewTest\DataGridViewTest.csproj", "{C121A10E-0CA3-4AD6-91EE-417E128CD35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C121A10E-0CA3-4AD6-91EE-417E128CD35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C121A10E-0CA3-4AD6-91EE-417E128CD35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C121A10E-0CA3-4AD6-91EE-417E128CD35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C121A10E-0CA3-4AD6-91EE-417E128CD35D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
